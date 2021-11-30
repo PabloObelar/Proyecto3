@@ -1,0 +1,142 @@
+[
+  {
+    "id": "00",
+    "nombre": "Pulp Fiction",
+    "descripcion": "La vida de un boxeador, dos sicarios, la esposa de un gánster y dos bandidos se entrelaza en una historia de violencia y redención.",
+    "categoria": "Ganster film, thriller y drama",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81ERtO24ZbL._RI_.jpg",
+    "precio": "2000",
+    "disponible": true
+  },
+  {
+    "id": "01",
+    "nombre": "Once upon time in hollywood",
+    "descripcion": "A finales de los 60, Hollywood empieza a cambiar y el actor Rick Dalton trata de adaptarse a los nuevos tiempos. Junto a su doble, ambos experimentan problemas para modificar sus hábitos, debido a lo enraizados que están. Al mismo tiempo, nace una relación entre Rick y la actriz Sharon Tate, que fue víctima de la familia Manson en la matanza de 1969.",
+    "categoria": "Comedia dramatica",
+    "img": "https://zoneflix.com/wp-content/uploads/2020/02/once-upon-a-time-in-hollywood-en-netflix.jpg",
+    "precio": "1500",
+    "disponible": true
+  },
+  {
+    "id": "02",
+    "nombre": "Buenos muchachos",
+    "descripcion": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra en la familia Pauline.",
+    "categoria": "Drama, crimen",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZfj1gRILzDb-_7YOA1Lj5TOYRN-9bg2xoMA&usqp=CAU",
+    "precio": "3000",
+    "disponible": true
+  },
+
+  {
+    "id": "03",
+    "nombre": "El rey leon",
+    "descripcion": "Tras la muerte de su padre, Simba deberá enfrentarse a su tío para recuperar el trono de Rey de la Selva. Timón y Pumba le acompañarán en su misión.",
+    "categoria": "Animacion",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/81v-F+xMzmL.jpg",
+    "precio": "1000",
+    "disponible": true
+  },
+
+  {
+    "id": "04",
+    "nombre": "Dragon ball el puño del dragon",
+    "descripcion": "Goku, el guerrero más poderoso del universo se une a Gohan, Vegeta, Gotenks y Tapion para enfrentar a un nuevo monstruo que aparece en el planeta para destruirlo todo.",
+    "categoria": "Anime",
+    "img": "https://pics.filmaffinity.com/Dragon_Ball_Z_El_ataque_del_drag_n-742764500-large.jpg",
+    "precio": "500",
+    "disponible": true
+  },
+  {
+    "id": "05",
+    "nombre": "El exorcista",
+    "descripcion": "Adaptación de la novela de William Peter Blatty. Inspirada en un exorcismo real ocurrido en Washington en 1949. Regan, una niña de doce años, es víctima de fenómenos paranormales. Su madre, aterrorizada, tras someter a su hija a múltiples análisis médicos que no ofrecen ningún resultado, acude a un sacerdote con estudios de psiquiatría. Éste está convencido de que la niña es víctima de una posesión diabólica. Por eso, con la ayuda de otro sacerdote, decide practicar un exorcismo.",
+    "categoria": "Terror",
+    "img": "https://pics.filmaffinity.com/El_Exorcista-198200648-large.jpg",
+    "precio": "6000",
+    "disponible": true
+  },
+
+  {
+    "id": "06",
+    "nombre": "Sueños de libertad",
+    "descripcion": "Andrew Dufresne es un hombre inocente que es acusado del asesinato de su mujer. Tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank, en Maine. Con el paso de los años, Andrew conseguirá ganarse la confianza del director del centro y el respeto de los otros convictos, especialmente de Red, el jefe de la mafia.",
+    "categoria": "Drama, policial",
+    "img": "https://www.clarin.com/img/2019/09/19/el-poster-de-suenos-de___kNBiHuc2Z_720x0__1.jpg",
+    "precio": "2500",
+    "disponible": false
+  },
+  {
+    "id": "07",
+    "nombre": "El padrino",
+    "descripcion": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York en los años 40. El hombre tiene cuatro hijos: Connie, Sonny, Fredo y Michael, que no quiere saber nada de los negocios sucios de su padre. Cuando otro capo, Sollozzo, intenta asesinar a Corleone, empieza una cruenta lucha entre los distintos clanes.",
+    "categoria": "Crimen, policial, drama",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTespdqmJ6Ytl0VhEflRnUuyNhIMEC0sNM-Iq5u3HmAy3_c1_2STNXqLfLEYkAhTgzOE8M&usqp=CAU",
+    "precio": "4000",
+    "disponible": false
+  },
+  {
+    "id": "08",
+    "nombre": "Capitan america el primer vengador",
+    "descripcion": "Tras tres meses de someterse a un programa de entrenamiento físico y táctico, Steve Rogers es encomendado su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como líder de los Vengadores.",
+    "categoria": "Ciencia ficción, superheroes",
+    "img": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e6/El_Primer_Vengador_Poster_5.png/revision/latest?cb=20151224142624&path-prefix=es",
+    "precio": "800",
+    "disponible": true
+  },
+  {
+    "id": "09",
+    "nombre": "9 reinas",
+    "descripcion": "Nueve reinas cuenta la historia de dos estafadores, Juan y Marcos, quienes se unen tras conocerse en el mini mercado de una estación de gas, e imprevistamente se ven envueltos en un negocio de medio millón de dólares.",
+    "categoria": "Drama",
+    "img": "http://www.elespectadorimaginario.com/media/marzo10/Manu/Nuevereinas-cartel.jpg",
+    "precio": "4000",
+    "disponible": true
+  },
+  {
+    "id": "10",
+    "nombre": "Iron man I",
+    "descripcion": "Tony Stark es un inventor de armamento brillante que es secuestrado en el extranjero. Sus captores son unos terroristas que le obligan a construir una máquina destructiva pero Tony se construirá una armadura para poder enfrentarse a ellos y escapar.",
+    "categoria": "Ciencia ficción, superheroes",
+    "img": "https://pics.filmaffinity.com/Iron_Man-108960873-large.jpg",
+    "precio": "5000",
+    "disponible": false
+  },
+  {
+    "id": "11",
+    "nombre": "Ace ventura",
+    "descripcion": "El detective Ace Ventura, especializado en rescatar animales secuestrados, recibe el encargo de localizar y rescatar el delfín Copo de Nieve, mascota del equipo de fútbol de Miami, que ha sido secuestrado el día anterior a la gran final que debe disputar el equipo.",
+    "categoria": "Comedia",
+    "img": "https://es.web.img3.acsta.net/medias/nmedia/18/79/27/83/20405545.jpg",
+    "precio": "2000",
+    "disponible": true
+  },
+
+  {
+    "id": "12",
+    "nombre": "Toy story",
+    "descripcion": "Los juguetes de Andy, un niño de seis años, temen que un nuevo regalo les sustituya en el corazón de su dueño. Woody, un vaquero que ha sido hasta ahora el juguete favorito, trata de tranquilizarlos hasta que aparece Buzz Lightyear. Lo peor es que el arrogante Buzz se cree que es una auténtico astronauta en plena misión para regresar a su planeta.",
+    "categoria": "Infantil, animación",
+    "img": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
+    "precio": "8000",
+    "disponible": true
+  },
+  {
+    "id": "13",
+    "nombre": "El quinto elemento",
+    "descripcion": "Cada 5.000 años se abre una puerta entre dos dimensiones. En una dimensión existe el Universo y la vida y en la otra un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una antienergía: El quinto elemento.",
+    "categoria": "Ciencia ficción",
+    "img": "https://r1.abcimg.es/resizer/resizer.php?imagen=https%3A%2F%2Fstatic4.abc.es%2Fmedia%2Fpeliculas%2F000%2F003%2F962%2Fel-quinto-elemento-1.jpg&nuevoancho=690&medio=abc",
+    "precio": "250",
+    "disponible": false
+  },
+
+  {
+    "id": "14",
+    "nombre": "Marley y yo",
+    "descripcion": "John y Jenny deciden dejar atrás los duros inviernos de Michigan para iniciar sus nuevas vidas en la soleada West Palm Beach. Los dos consiguen empleo en dos periódicos rivales y afrontan los retos del matrimonio.",
+    "categoria": "Comedia, drama",
+    "img": "https://www.cartelera.com.uy/imagenes_espectaculos/moviedetail13/5359.jpg",
+    "precio": "1200",
+    "disponible": true
+  }
+]
